@@ -1,0 +1,15 @@
+tech_bv_info.csv
+我们的数据（utf-8编码）
+
+analyse.py
+我们的主要python代码
+需要安装的库：numpy, pandas, sklearn, jieba, wordcloud
+
+data_reg.csv
+我们用R做线性回归分析，这是我们处理后给R用的数据文件（utf-8编码）
+
+r.R
+我们线性回归的R代码
+
+视频聚类（视频推荐系统）.csv
+我们做完聚类后的视频聚类数据，其中'clu'字段即为类别。可以根据视频类别做相应推荐。
